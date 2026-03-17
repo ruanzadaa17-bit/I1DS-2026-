@@ -39,5 +39,5 @@ console.table(frutas);
 
 // slice -> Cria uma cópia copia do vetor
 let listaParcial = frutas.slice(); // Cria uma cópia do vetor dinos a partir do indice onde começa e onde termina a copia
-listaParcial = frutas.slice(2, 5);
+listaParcial =frutas.slice(2, 5);
 console.table(listaParcial);
