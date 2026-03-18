@@ -21,4 +21,4 @@ function subtrair (valor1, valor2){
  }
 console.log("-----------------------------------------------------------------------------")
  console.log("O carro tem a capacidade de 40 Litros,", "O carro pode fazer " , multiplicacao(40, 12), "Quilômetros" );
-console.log("-----------------------------------------------------------------------------")
+console.log("------------------------------------------------------------------------------")
