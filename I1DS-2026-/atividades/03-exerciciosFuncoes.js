@@ -9,12 +9,16 @@ Lista de Exercícios
  veículo faz uma média de 12 Km/L.
 */
 
-// Criar uma função que subtrai dois valores e retorna um resultado
-function subtrair(anoAtual, anoNasc) {
-    return anoAtual - anoNasc;
+console.log("-----------------------------------------------------------------------------")
+function subtrair (valor1, valor2){
+    return valor1 - valor2
 }
-console.log("2026 - 2010= ", subtrair(2010, 2026));
+ console.log("2026 - 2010 =", subtrair (2026, 2010));
 
-// Criar uma função que recebe a quantidade de combustivel de um carro e retorne quantos kms ele pode viajar com esse combustivel.
-function divisao(totalComb / mediaKms);
-let totalComb = 60
+ function multiplicacao (v1, v2){
+    return v1 * v2 
+
+ }
+console.log("-----------------------------------------------------------------------------")
+ console.log("O carro tem a capacidade de 40 Litros,", "O carro pode fazer " , multiplicacao(40, 12), "Quilômetros" );
+console.log("-----------------------------------------------------------------------------")
