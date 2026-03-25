@@ -22,7 +22,7 @@ maior ou igual a 7      Aprovado
 
 
 let n1 = 7;
-let n2 = 8;
+let n2 = 8
 let n3 = 6;
 let n4 = 5;
 
