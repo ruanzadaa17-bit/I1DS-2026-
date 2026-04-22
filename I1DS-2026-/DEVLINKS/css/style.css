@@ -1,0 +1,33 @@
+
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-image: url("../img/bg-desktop-light (1).jpg");
+
+background-size: cover;
+}
+.my-text {
+color: rgb(0, 0, 0);
+text-decoration: none;
+}
+.tamanho {
+width: 400px;
+padding: 20px;
+border: 1px solid #00000081;
+border-radius: 8px;
+}
+
+.tamanho:hover {
+border: 1px solid #000000;
+}
+
+#links {
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 20px;
+}
