@@ -90,7 +90,6 @@ button:hover {
   transform: scale(1.02);
 }
 
-
 /* LISTA  */
 ul {
   list-style: none;
@@ -107,7 +106,13 @@ li:hover {
   background-color: #e2e8f0;
   transform: translateX(5px);
 }
-.btn {
-color: 
 
+.btn {
+  color: #111827;
+  width: 50px;
+  padding: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  border: none;
+  display: inline;
 }
